@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ViolaSPA/static/css/main.086f036a.css",
+    "main.js": "/ViolaSPA/static/js/main.f61c630d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ViolaSPA/static/js/787.28cb0dcd.chunk.js",
+    "static/media/MainPage3.jpg": "/ViolaSPA/static/media/MainPage3.af42fc3bd0614ef4b5e7.jpg",
+    "static/media/MainPage2.jpg": "/ViolaSPA/static/media/MainPage2.4e03418c9f97753c71ee.jpg",
+    "static/media/MainPage1.jpg": "/ViolaSPA/static/media/MainPage1.74d4cda6eb53faf28fc5.jpg",
+    "index.html": "/ViolaSPA/index.html",
+    "main.086f036a.css.map": "/ViolaSPA/static/css/main.086f036a.css.map",
+    "main.f61c630d.js.map": "/ViolaSPA/static/js/main.f61c630d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ViolaSPA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086f036a.css",
+    "static/js/main.f61c630d.js"
+  ]
+}
