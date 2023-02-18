@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+.MainPage p{
+    margin: 5px 0px 0px 0px;
+    text-align: justify;
+    font-size: larger;
+    text-indent: 1.5em;
+    
+} 
+.MainPage li{
+    text-align: justify;
+    font-size: larger;
+    font-style:italic;
+} 
+.MainPage strong{
+    font-size: larger;
+} 
+.MainPage h2{
+    font-family: 'Forum', cursive;
+    color:rgb(168, 20, 20);
+    text-align: start;
+    position: relative;
+    left:5%;
+}
+.MainPage img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.TestsConteiner{
+margin: 10px 0px 0px 5%;
+width:25%;
+min-height: 250px;
+border: 6px outset #4db336;
+position: relative;
+border-radius: 20px;
+display:inline-block;
+vertical-align:top;
+}
+.TestsConteinerChield{
+    position: relative;
+    left:10%;
+    top:30px;
+    border: 6px outset  #4db336;
+    width:80%;
+    height: 100px;
+    max-height: 150px;
+    border-radius: 20px;
+}
+.butStart{
+    width:50%;/* 
+    min-height: 100px; */
+    position: relative;
+    left: 25%;
+    top:10%;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+.header{
+    height: 310px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;background: rgb(139,157,119);
+    background: linear-gradient(90deg, rgba(139,157,119,1) 0%, rgba(139,157,119,1) 0%, rgba(55,116,91,1) 100%);
+}
+.wrapperHead{
+    width: 90%;
+    height: inherit;
+    display:table;
+    
+    
+}
+.logo{
+    height: inherit;
+    width: 300px;
+    display: table-cell;
+    background-image: url("../../Картинки/Logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.NavBar{
+    margin: 0px 0px 0px 800px;
+    width: 50%;
+    background-color: none ;
+    
+   
+}
+.QuoteinHeader{
+    font-family: 'Forum', cursive;
+    color:azure;
+    text-align: center;
+    width: 44%;
+    height: 170px;
+    margin: 2% 0px 0px 27%;
+    border: 5px solid white;
+}

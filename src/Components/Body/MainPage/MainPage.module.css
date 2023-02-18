@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+.MainPage p{
+    margin: 5px 0px 0px 0px;
+    text-align: justify;
+    font-size: larger;
+    text-indent: 1.5em;
+    
+} 
+
+.MainPage h2{
+    font-family: 'Forum', cursive;
+    color:rgb(168, 20, 20);
+    text-align: center;
+}
+.MainPage img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
